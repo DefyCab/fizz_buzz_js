@@ -1,3 +1,5 @@
+const FizzBuzz = require("../src/fizzBuzz")
+
 const subject = new FizzBuzz();
 
 describe("FizzBuzz", () => {
